@@ -17,4 +17,4 @@ btn_next.tick = function() {
 
 setInterval (function() {
     btn_next.tick();
-}, 3000);
+}, 7000);
